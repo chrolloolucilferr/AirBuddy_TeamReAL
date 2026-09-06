@@ -436,6 +436,10 @@ medical sources.
 ## 👥 Team
 
 **Team ReAL**
+**Team Memebers:**
+    Jemit Malnika
+    Tanish Belel
+    Darsh Jilka
 
 Project: **AirBuddy**
 
